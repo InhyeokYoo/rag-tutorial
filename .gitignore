@@ -10,6 +10,8 @@ aihubshell
 *.png
 *.xml
 *.pdf
+*.pt
+*.safetensors
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
